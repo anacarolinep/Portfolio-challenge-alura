@@ -21,6 +21,6 @@
 
 
 <p align="center" >
-     <img width="600" heigth="600" src="file:///C:/Users/anaca/OneDrive/%C3%81rea%20de%20Trabalho/challenge-one-portfolio-br-master/assets/foto.png">
+     <img width="600" heigth="600" src="!https://github.com/anacarolinep/Portfolio-challenge-alura/assets/74980842/ccba0547-c22d-4166-9d71-3901094e7df6">
 </p>
 
